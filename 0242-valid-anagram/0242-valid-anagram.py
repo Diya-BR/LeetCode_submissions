@@ -1,12 +1,18 @@
 class Solution:
     def isAnagram(self, s: str, t: str) -> bool:
-        dict_s = {}
-        dict_t = {}
-        set_s = set(s)
-        set_t = set(t)
-        for i in set_s:
-            dict_s[i] = s.count(i)
-        for i in set_t:
-            dict_t[i] = t.count(i)
-        return dict_s == dict_t
+        if len(s) != len(t):
+            return False
+            
+        count_letters1 = {}
+        count_letters2 = {}
+
+        for i in range(len(s)):
+            count_letters1[s[i]] = count_letters1.get(s[i],0)+1
+            count_letters2[t[i]] = count_letters2.get(t[i],0)+1
         
+        if count_letters1 == count_letters2:
+            return True
+        return False
+
+        
+

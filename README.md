@@ -20,4 +20,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0007-reverse-integer](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0007-reverse-integer/) | Medium |
 <!---LeetCode Topics End-->

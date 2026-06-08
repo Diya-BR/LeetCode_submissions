@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -24,4 +25,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0007-reverse-integer/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 <!---LeetCode Topics End-->

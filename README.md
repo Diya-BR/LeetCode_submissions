@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -29,4 +30,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

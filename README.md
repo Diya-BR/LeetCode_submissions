@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
+| [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,10 +58,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0045-jump-game-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0134-gas-station/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->

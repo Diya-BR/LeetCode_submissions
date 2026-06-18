@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0454-4sum-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0454-4sum-ii/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0134-gas-station/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

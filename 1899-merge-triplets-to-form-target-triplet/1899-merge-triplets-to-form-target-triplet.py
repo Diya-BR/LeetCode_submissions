@@ -1,12 +1,23 @@
+from typing import List
+
 class Solution:
     def mergeTriplets(self, triplets: List[List[int]], target: List[int]) -> bool:
-        res = set()
-        for t in triplets:
-            if t[0]>target[0] or t[1]>target[1] or t[2]>target[2]:
+        found = [False, False, False]
+        
+        for triplet in triplets:
+            # Simply skip the invalid triplets instead of removing them
+            if (triplet[0] > target[0] or 
+                triplet[1] > target[1] or 
+                triplet[2] > target[2]):
                 continue
-            if t[0] == target[0]: res.add(0)
-            if t[1] == target[1]: res.add(1)
-            if t[2] == target[2]: res.add(2)
-            if len(res) == 3:
+            
+            # Record matching positions
+            if triplet[0] == target[0]: found[0] = True
+            if triplet[1] == target[1]: found[1] = True
+            if triplet[2] == target[2]: found[2] = True
+            
+            # Early exit if we have found all three matches
+            if all(found):
                 return True
-        return False
+                
+        return all(found)

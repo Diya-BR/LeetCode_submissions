@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0125-valid-palindrome](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0155-min-stack](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0155-min-stack/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |

@@ -54,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0007-reverse-integer/) | Medium |
+| [0070-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -85,6 +86,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
+| [0070-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
@@ -145,4 +147,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->

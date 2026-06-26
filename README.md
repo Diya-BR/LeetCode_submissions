@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0454-4sum-ii/) | Medium |
 | [0739-daily-temperatures](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |

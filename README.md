@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0036-valid-sudoku/) | Medium |
@@ -82,6 +83,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0125-valid-palindrome/) | Easy |
@@ -103,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0045-jump-game-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0134-gas-station](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0134-gas-station/) | Medium |

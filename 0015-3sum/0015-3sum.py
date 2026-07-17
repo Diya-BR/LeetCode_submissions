@@ -1,36 +1,26 @@
 class Solution:
     def threeSum(self, nums: list[int]) -> list[list[int]]:
-        res = []
-        nums.sort()
-        
-        for i in range(len(nums) - 2):
-            # Skip duplicate 'i'
-            if i > 0 and nums[i] == nums[i - 1]:
+        nums = sorted(nums)
+        ans = []
+        for i in range(0,len(nums)):
+            if i> 0 and nums[i] == nums[i-1]:
                 continue
-                
-            n1 = i + 1
-            n2 = len(nums) - 1
-            
-            while n1 < n2:
-                current_sum = nums[i] + nums[n1] + nums[n2]
-                
-                if current_sum == 0:
-                    # Append directly; no need to sort or check "not in res"
-                    res.append([nums[i], nums[n1], nums[n2]])
+            l, r = i+1, len(nums) - 1
+            while l < r:
+                sum = nums[i]+nums[l]+nums[r]
+                if sum == 0:
+                    ans.append([nums[i],nums[l],nums[r]])
+                    l += 1
+                    r -= 1
+                    while l < r and nums[l] == nums[l-1]:
+                        l += 1
+                    while l < r and nums[r] == nums[r+1]:
+                        r -= 1 
                     
-                    # Skip duplicate n1 and n2 values by stepping by 1
-                    while n1 < n2 and nums[n1] == nums[n1 + 1]:
-                        n1 += 1
-                    while n1 < n2 and nums[n2] == nums[n2 - 1]:
-                        n2 -= 1
-                        
-                    # Move past the final duplicates
-                    n1 += 1
-                    n2 -= 1
-                    
-                elif current_sum < 0:
-                    n1 += 1
+                elif sum < 0:
+                    l += 1
                 else:
-                    n2 -= 1
-                    
-        return res
+                    r -= 1
+                
+        return ans
+            

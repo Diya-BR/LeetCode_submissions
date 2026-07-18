@@ -1,17 +1,13 @@
 class Solution:
     def isValid(self, s: str) -> bool:
         stack = []
-        paran = {'(':')','[':']','{':'}'}
-        for char in s:
-            if char in paran.keys():
-                stack.append(paran[char])
+        para = {')':'(', ']':'[','}':'{'}
+        for i in s:
+            if i in para.keys():
+                if not stack or stack[-1] != para[i]:
+                        return False
+                stack.pop()
             else:
-                if not stack:
-                    return False
-                if stack[-1] == char:
-                    stack.pop()
-                else:
-                    return False
-        if stack:
-            return False
-        return True
+                stack.append(i)
+        
+        return len(stack) == 0

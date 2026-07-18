@@ -30,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0853-car-fleet/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 ## Hash Table
@@ -59,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0846-hand-of-straights/) | Medium |
+| [0853-car-fleet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0853-car-fleet/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -123,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0155-min-stack/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0739-daily-temperatures](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0853-car-fleet/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -140,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0739-daily-temperatures](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0739-daily-temperatures/) | Medium |
+| [0853-car-fleet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0853-car-fleet/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0853-car-fleet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0853-car-fleet/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
+| [1929-concatenation-of-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1929-concatenation-of-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -180,4 +181,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0036-valid-sudoku](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0036-valid-sudoku/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1929-concatenation-of-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1929-concatenation-of-array/) | Easy |
 <!---LeetCode Topics End-->

@@ -26,6 +26,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0454-4sum-ii/) | Medium |
 | [0704-binary-search](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0704-binary-search/) | Easy |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0704-binary-search](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0704-binary-search/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0125-valid-palindrome](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0125-valid-palindrome/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -187,4 +190,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1929-concatenation-of-array/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->

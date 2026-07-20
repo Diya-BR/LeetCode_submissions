@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0134-gas-station](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0134-gas-station/) | Medium |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0055-jump-game](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0070-climbing-stairs/) | Easy |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0213-house-robber-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0678-valid-parenthesis-string/) | Medium |

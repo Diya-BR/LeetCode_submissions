@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0039-combination-sum/) | Medium |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0033-search-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |

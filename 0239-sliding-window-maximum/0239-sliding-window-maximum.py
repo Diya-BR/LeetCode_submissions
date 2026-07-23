@@ -8,7 +8,8 @@ class Solution:
             q.append(right)
             if q[0] <= right - k:
                 q.popleft()
+
             if right >= k - 1:
                 res.append(nums[q[0]])
-            
         return res
+

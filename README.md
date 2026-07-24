@@ -227,4 +227,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0567-permutation-in-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0567-permutation-in-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->

@@ -8,23 +8,18 @@ class Solution:
         """
         Do not return anything, modify head in-place instead.
         """
-        if not head or not head.next:
-            return 
-        fast, slow = head,head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-        prev, curr = None, slow.next
-        slow.next = None
-        while curr:
-            next_node = curr.next
-            curr.next = prev
-            prev = curr
-            curr = next_node
-        first, second = head, prev
-        while second:
-            temp1, temp2 = first.next, second.next
-            first.next, second.next = second, temp1
-            first, second = temp1, temp2
-
+        hold_all = []
+        while head:
+            hold_all.append(head)
+            head = head.next
+        l, r = 0, len(hold_all)-1
+        while l < r:
+            hold_all[l].next = hold_all[r]
+            l += 1
+            if l == r: break
+            hold_all[r].next = hold_all[l]
+            r -= 1
+        hold_all[l].next = None
+        
+        
         

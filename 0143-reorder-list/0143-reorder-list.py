@@ -10,24 +10,21 @@ class Solution:
         """
         if not head or not head.next:
             return 
-        fast, slow = head, head
+        fast, slow = head,head
         while fast and fast.next:
             slow = slow.next
             fast = fast.next.next
         prev, curr = None, slow.next
         slow.next = None
         while curr:
-            node_next = curr.next
+            next_node = curr.next
             curr.next = prev
             prev = curr
-            curr = node_next
-        list2 = prev
-        list1 = head
-        while list2:
-            temp1, temp2 = list1.next, list2.next
-            list1.next = list2
-            list2.next = temp1
-            list1 = temp1
-            list2 = temp2
+            curr = next_node
+        first, second = head, prev
+        while second:
+            temp1, temp2 = first.next, second.next
+            first.next, second.next = second, temp1
+            first, second = temp1, temp2
 
         

@@ -18,9 +18,7 @@ class Solution:
             print(f"{temp.val}\n")
             temp = temp.next
             i += 1
-        if temp.next == None:
-            temp = None
-            return head
+        
         temp.next = temp.next.next
         return head
         

@@ -14,7 +14,7 @@ class Solution:
         right = self.mergeKLists(lists[mid:])
         return self.merge2Lists(left,right)
 
-    def merge2Lists(self, list1, list2): 
+    def merge2Lists(self, list1: Optional[ListNode], list2: Optional[ListNode])-> Optional[ListNode]:
         dummy_head = ListNode(0) 
         dummy = dummy_head
         while list1 and list2:

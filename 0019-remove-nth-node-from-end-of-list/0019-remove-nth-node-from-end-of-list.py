@@ -11,14 +11,14 @@ class Solution:
         while temp:
             temp = temp.next
             n_count += 1
+        print(f"{n_count}")
         temp = head
-        if n==n_count:
+        if n_count == n:
             return head.next
-        while i<(n_count-n-1):
-            print(f"{temp.val}\n")
+        print(f"{temp}")
+
+        while i < (n_count - n - 1):
             temp = temp.next
             i += 1
-        
         temp.next = temp.next.next
         return head
-        

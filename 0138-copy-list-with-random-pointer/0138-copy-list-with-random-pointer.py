@@ -9,15 +9,17 @@ class Node:
 
 class Solution:
     def copyRandomList(self, head: 'Optional[Node]') -> 'Optional[Node]':
-        nodemap = {}
-        def helper(node: 'Optional[Node]') -> 'Optional[Node]':
-            if not node:
-                return None
-            if node not in nodemap:
-                nodemap[node] = Node(node.val)
-                nodemap[node].next = helper(node.next) 
-                nodemap[node].random = helper(node.random) 
-            return nodemap[node]
-        # node_head = helper(head)
-        return helper(head)
-            
+        map_all = {}
+        temp = head
+        while temp:
+            map_all[temp] = Node(temp.val)
+            temp = temp.next
+        map_all[None] = None
+        temp = head
+        print(f"{map_all}")
+        while temp:
+            node = map_all[temp]
+            node.next = map_all[temp.next]
+            node.random = map_all[temp.random]
+            temp = temp.next
+        return map_all[head]

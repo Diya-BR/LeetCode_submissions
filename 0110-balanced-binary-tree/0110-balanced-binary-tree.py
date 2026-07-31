@@ -7,14 +7,16 @@
 class Solution:
     def isBalanced(self, root: Optional[TreeNode]) -> bool:
         self.flag = True
-        def dfs(root: Optional[TreeNode]) -> int:
-            if not root:
+        def height(node: Optional[TreeNode])->int:
+            if not node:
                 return 0
-            left_depth = dfs(root.left)
-            right_depth = dfs(root.right)
-            if abs(left_depth - right_depth)>1:
+            left_height = height(node.left)
+            right_height = height(node.right)
+            if abs(right_height - left_height) > 1:
                 self.flag = False
-            return 1 + max(left_depth, right_depth)
-        dfs(root)
+                return -1
+            return 1 + max(left_height, right_height)
+        height(root)
         return self.flag
 
+            

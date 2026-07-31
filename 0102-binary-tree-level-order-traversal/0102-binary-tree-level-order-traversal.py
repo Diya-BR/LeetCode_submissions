@@ -9,7 +9,7 @@ class Solution:
         if not root:
             return []
         result = []
-        queue = collections.deque([root])
+        queue = deque([root])
         while queue:
             level = []
             for _ in range(len(queue)):

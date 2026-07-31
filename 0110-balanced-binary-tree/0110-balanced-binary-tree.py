@@ -11,7 +11,13 @@ class Solution:
             if not node:
                 return 0
             left_height = height(node.left)
+            if left_height == -1:
+                self.flag = False
+                return -1
             right_height = height(node.right)
+            if right_height == -1:
+                self.flag = False
+                return -1
             if abs(right_height - left_height) > 1:
                 self.flag = False
                 return -1

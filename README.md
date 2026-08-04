@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1929-concatenation-of-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/1929-concatenation-of-array/) | Easy |
+| [3708-longest-fibonacci-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/3708-longest-fibonacci-subarray/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0027-remove-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
@@ -70,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0014-longest-common-prefix](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0022-generate-parentheses/) | Medium |
 | [0076-minimum-window-substring](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0076-minimum-window-substring/) | Hard |
@@ -353,4 +355,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0098-validate-binary-search-tree](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+## Trie
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0014-longest-common-prefix](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0014-longest-common-prefix/) | Easy |
 <!---LeetCode Topics End-->

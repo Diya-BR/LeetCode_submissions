@@ -11,6 +11,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0018-4sum/) | Medium |
 | [0027-remove-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
@@ -88,6 +89,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0018-4sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -132,6 +134,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
+| [0018-4sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0027-remove-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0027-remove-element/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |

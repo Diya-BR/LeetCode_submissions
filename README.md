@@ -33,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0150-evaluate-reverse-polish-notation](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0189-rotate-array/) | Medium |
 | [0198-house-robber](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0213-house-robber-ii/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0141-linked-list-cycle](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0146-lru-cache/) | Medium |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -96,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0015-3sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0015-3sum/) | Medium |
 | [0018-4sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0018-4sum/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0088-merge-sorted-array/) | Easy |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0242-valid-anagram/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -135,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0023-merge-k-sorted-lists](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0053-maximum-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 ## Two Pointers
@@ -247,6 +251,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -388,4 +393,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0881-boats-to-save-people/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->

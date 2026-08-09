@@ -1,21 +1,19 @@
 class MyHashSet:
 
     def __init__(self):
-        self.list_set = []
+        self.list_set = [0 for i in range(1000000)]
 
     def add(self, key: int) -> None:
-        if key not in self.list_set:
-            self.list_set.append(key)
+        self.list_set[key] = 1
 
     def remove(self, key: int) -> None:
-        if key in self.list_set:
-            self.list_set.remove(key)
+        self.list_set[key] = 0
 
 
     def contains(self, key: int) -> bool:
-        if key in self.list_set:
-            return True
-        return False 
+        
+        return self.list_set[key] == 1
+        
 
 
 # Your MyHashSet object will be instantiated and called as such:

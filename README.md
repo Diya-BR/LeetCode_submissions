@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0454-4sum-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0454-4sum-ii/) | Medium |
 | [0704-binary-search](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0704-binary-search/) | Easy |
+| [0705-design-hashset](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0705-design-hashset/) | Easy |
 | [0739-daily-temperatures](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0739-daily-temperatures/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0846-hand-of-straights](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0846-hand-of-straights/) | Medium |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0454-4sum-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0454-4sum-ii/) | Medium |
 | [0567-permutation-in-string](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0567-permutation-in-string/) | Medium |
+| [0705-design-hashset](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0705-design-hashset/) | Easy |
 | [0846-hand-of-straights](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0846-hand-of-straights/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## String
@@ -232,6 +234,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0146-lru-cache/) | Medium |
 | [0155-min-stack](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0155-min-stack/) | Medium |
+| [0705-design-hashset](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0705-design-hashset/) | Easy |
 | [0981-time-based-key-value-store](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0981-time-based-key-value-store/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
@@ -296,6 +299,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0143-reorder-list](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0143-reorder-list/) | Medium |
 | [0146-lru-cache](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0146-lru-cache/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0705-design-hashset](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0705-design-hashset/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -379,6 +383,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0572-subtree-of-another-tree/) | Easy |
+| [0705-design-hashset](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0705-design-hashset/) | Easy |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |

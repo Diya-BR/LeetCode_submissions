@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0278-first-bad-version](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0278-first-bad-version/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0374-guess-number-higher-or-lower](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0704-binary-search](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0981-time-based-key-value-store](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0981-time-based-key-value-store/) | Medium |
@@ -417,4 +418,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0278-first-bad-version](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0278-first-bad-version/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->

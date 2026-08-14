@@ -19,6 +19,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0035-search-insert-position/) | Easy |
 | [0036-valid-sudoku](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0036-valid-sudoku/) | Medium |
 | [0039-combination-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0039-combination-sum/) | Medium |
+| [0041-first-missing-positive](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0045-jump-game-ii](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0045-jump-game-ii/) | Medium |
 | [0053-maximum-subarray](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0053-maximum-subarray/) | Medium |
@@ -68,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0001-two-sum](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0036-valid-sudoku](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0036-valid-sudoku/) | Medium |
+| [0041-first-missing-positive](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0041-first-missing-positive/) | Hard |
 | [0076-minimum-window-substring](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0076-minimum-window-substring/) | Hard |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0105-construct-binary-tree-from-preorder-and-inorder-traversal/) | Medium |
 | [0128-longest-consecutive-sequence](https://github.com/Diya-BR/LeetCode_submissions/tree/main/0128-longest-consecutive-sequence/) | Medium |
